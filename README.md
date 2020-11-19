@@ -83,7 +83,10 @@ O projeto foi desenvolvido na linguagem de programação [C](https://devdocs.io/
 	<img alt="GoStack" style="width:32%" src="https://media.discordapp.net/attachments/767426969851527188/779057517099089930/terminal.jpg" />
 <p/>
 
-[![Web-socket](http://img.youtube.com/vi/4GfKDHFkdDU/0.jpg)](http://www.youtube.com/watch?v=4GfKDHFkdDU "https://cdn.discordapp.com/attachments/767426969851527188/779052231168622632/wenos.jpg")
+### **Video Youtube**
+<p align="center">
+	[![Web-socket](http://img.youtube.com/vi/4GfKDHFkdDU/0.jpg)](http://www.youtube.com/watch?v=4GfKDHFkdDU "https://cdn.discordapp.com/attachments/767426969851527188/779052231168622632/wenos.jpg")
+<p/>
 
 
 ## **Licença**
