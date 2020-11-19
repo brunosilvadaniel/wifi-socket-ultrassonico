@@ -82,7 +82,8 @@ O projeto foi desenvolvido na linguagem de programação [C](https://devdocs.io/
 <p align="center">
 	<img alt="GoStack" style="width:32%" src="https://media.discordapp.net/attachments/767426969851527188/779057517099089930/terminal.jpg" />
 <p/>
-[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
+
+[![Web-socket](http://img.youtube.com/vi/4GfKDHFkdDU/0.jpg)](http://www.youtube.com/watch?v=4GfKDHFkdDU "https://cdn.discordapp.com/attachments/767426969851527188/779052231168622632/wenos.jpg")
 
 
 ## **Licença**
