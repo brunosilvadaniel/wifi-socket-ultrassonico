@@ -5,8 +5,7 @@
 
 - [Introdução](#Introdução)
 - [Script](#script)
-- [API](#api)
-- [Aplicação Web](#Aplicação-Web)
+- [Aplicação](#Aplicação)
 
 ## **Introdução**
 
@@ -417,20 +416,6 @@ void app_main() {
 
 }
 ```
-## **API**
-Interpretador utilizado:
-1. [Node.js](https://nodejs.org/en/)
-
-Banco de dados utlizado:
-1. [MongoDB](https://www.mongodb.com/)
-
-Framework utilizado:
-1. [Express](https://expressjs.com/pt-br/)
-
-Bibliotecas utlizadas:
-1. [Moment.js](https://momentjs.com/)
-1. [uuid](https://github.com/uuidjs/uuid)
-1. [Mongoose](https://mongoosejs.com/)
 
 
 Através da API, os aplicativos podem se comunicar uns com os outros sem conhecimento ou intervenção dos usuários. Elas funcionam através da comunicação de diversos códigos, definindo comportamentos específicos de determinado objeto em uma interface.
@@ -457,7 +442,7 @@ npm run docs
 Este comando irá criar uma pasta chamada `docs`, onde é criado uma página web com a documentação.
 
 
-## **Aplicação Web**
+## **Aplicação**
 Feita em [Reactjs](https://pt-br.reactjs.org/docs/getting-started.html) e estilizada usando a biblioteca [Material-UI](https://pt-br.reactjs.org/docs/getting-started.html)
 
 Reactjs é uma biblioteca JavaScript para criação de interfaces para o usuário, desenvolvida e mantida pelo Facebook, sua primeira release saiu em 2013. É  uma lib open-source com mais de 1k de colaboradores ativos no GitHub.
