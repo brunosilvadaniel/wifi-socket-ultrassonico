@@ -439,4 +439,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito pela turma 2020/1 da disciplina de IOT II da faculdade SATC, dirigida por Vagner da Silva Rodrigues.
+Feito pela turma 2020/2 da disciplina de IOT II da faculdade SATC, dirigida por Vagner da Silva Rodrigues.
