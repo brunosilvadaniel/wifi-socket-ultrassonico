@@ -13,11 +13,11 @@
 
 ## **Script**
 Os componentes que foram utilizados para a montagem foram:
-1. - WeMos D1
-1. - Sensor ultrassônico HC - SR04
-1. - Push button
-1. - Resistor (12kΩ)
-1. Jumper ~~à gosto~~
+- WeMos D1
+- Sensor ultrassônico HC - SR04
+- Push button
+- Resistor (12kΩ)
+- Jumpers
 
 ### Foto da montagem na prática e no TinkerCad
 <br>
