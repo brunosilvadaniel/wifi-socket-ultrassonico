@@ -13,11 +13,10 @@
 
 ## **Script**
 Os componentes que foram utilizados para a montagem foram:
-1. Arduino Uno
-1. Modelo WiFi - ESP8266
-1. Sensor de temperatura DHT11
-1. Sensor ultrassônico HC-SR04
-1. Resistor 220 Ω
+1. - WeMos D1
+1. - Sensor ultrassônico HC - SR04
+1. - Push button
+1. - Resistor (12kΩ)
 1. Jumper ~~à gosto~~
 
 ### Foto da montagem na prática e no TinkerCad
