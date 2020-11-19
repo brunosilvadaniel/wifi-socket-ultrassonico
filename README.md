@@ -9,7 +9,7 @@
 
 ## **Introdução**
 
- Desenvolver um hub para armazenar dados coletados de uma placa arduino conectado com módulo wi-fi, a partir dos dados coletados exibir em uma aplicação web afim de obter a variação dos dados conforme a localização geográfica do aparelho. Um exemplo seria coletar a temperatura de varias cidades.
+ Desenvolver uma aplicação capaz de fazer a leitura de sensores de presença e fazer a comunicação entre um terminal externo via wifi atreves da criação de uma socket TCP, sendo capaz de visualizar as informações repassadas no terminal de acesso, o projeto tambem tem na protoboard um led de status sobre o atual estado do wifi e um botão para dar reboot na conexão, a, esse projeto é uma junção de todas as atividades ja feitas 
 
 ## **Script**
 Os componentes que foram utilizados para a montagem foram:
