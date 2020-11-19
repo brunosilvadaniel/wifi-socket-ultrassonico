@@ -56,7 +56,6 @@ Os componentes que foram utilizados para a montagem foram:
 #define TRIGGER_GPIO 0 //D3
 #define ECHO_GPIO 4 //D2
 
-#define PORT CONFIG_EXAMPLE_PORT
 
 ```
 ### **Como iniciar a aplicação**
