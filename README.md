@@ -31,7 +31,7 @@ Os componentes que foram utilizados para a montagem foram:
 
 
 
-E, abaixo, o código que dispara dados para a [API](#api)
+
 
 **Coloque as informações corretas dos pinos de cada sensor e as informações de conexão.**
 ```
