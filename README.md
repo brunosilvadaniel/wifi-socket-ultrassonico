@@ -416,45 +416,18 @@ void app_main() {
 
 }
 ```
-
-
-Através da API, os aplicativos podem se comunicar uns com os outros sem conhecimento ou intervenção dos usuários. Elas funcionam através da comunicação de diversos códigos, definindo comportamentos específicos de determinado objeto em uma interface.
-
-### **Heroku**
-O servidor para a API foi hospedado na Heroku. Resumidamente, O Heroku é uma das melhores e mais populares opções de plataforma como serviço Paas, ela suporta várias aplicações em diversas linguagens, dentre elas o NodeJS. Existem planos gratuitos e alguns pagos.
-
-Caso queria saber como hospedar uma aplicação Node.js na Heroku, clique [aqui](https://www.youtube.com/watch?v=-j7vLmBMsEU)
-
-### **Como iniciar a API**
+### **Como iniciar a aplicação**
 
 Para iniciar a aplicação, utilize:
 ```
 start:dev
 ```
 
-Você pode começar os testes usando o [exemplo de script](#script) e carregando-o no seu Arduino. Basicamente, a API consiste em 4 rotas que podem ser consultadas com auxilio do `api-docs`:
-
-Para a visualização da documentação utilize:
-```
-npm run docs
-```
-
-Este comando irá criar uma pasta chamada `docs`, onde é criado uma página web com a documentação.
-
 
 ## **Aplicação**
-Feita em [Reactjs](https://pt-br.reactjs.org/docs/getting-started.html) e estilizada usando a biblioteca [Material-UI](https://pt-br.reactjs.org/docs/getting-started.html)
+O projeto foi desenvolvido na linguagem de programação [C](https://devdocs.io/c/), utilizando uma placa [Wemos D1](https://docs.wemos.cc/en/latest/d1/d1_mini.html)
 
-Reactjs é uma biblioteca JavaScript para criação de interfaces para o usuário, desenvolvida e mantida pelo Facebook, sua primeira release saiu em 2013. É  uma lib open-source com mais de 1k de colaboradores ativos no GitHub.
 
-Para iniciar a aplicação, utilize o código:
-```
-npm install
-```
-E, após instalar todas as dependências, utilize:
-```
-npm start
-```
 
 ### **Foto da aplicação web**
 <img alt="GoStack" style="width:32%" src="https://cdn.discordapp.com/attachments/724763742100914331/724774627297198150/unknown.png" />
