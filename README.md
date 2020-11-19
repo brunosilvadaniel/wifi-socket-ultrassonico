@@ -85,7 +85,7 @@ O projeto foi desenvolvido na linguagem de programação [C](https://devdocs.io/
 
 ### **Video Youtube**
 
-	[![Web-socket](http://img.youtube.com/vi/4GfKDHFkdDU/0.jpg)](http://www.youtube.com/watch?v=4GfKDHFkdDU "https://cdn.discordapp.com/attachments/767426969851527188/779052231168622632/wenos.jpg")
+[![Web-socket](http://img.youtube.com/vi/4GfKDHFkdDU/0.jpg)](http://www.youtube.com/watch?v=4GfKDHFkdDU "https://cdn.discordapp.com/attachments/767426969851527188/779052231168622632/wenos.jpg")
 
 
 
