@@ -436,7 +436,7 @@ O projeto foi desenvolvido na linguagem de programação [C](https://devdocs.io/
 
 
 
-### **Foto da aplicação web**
+### **Foto da aplicação**
 <p align="center">
 	<img alt="GoStack" style="width:32%" src="https://media.discordapp.net/attachments/767426969851527188/779057517099089930/terminal.jpg" />
 <p/>
