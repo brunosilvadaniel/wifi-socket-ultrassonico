@@ -419,10 +419,16 @@ void app_main() {
 ```
 ### **Como iniciar a aplicação**
 
-Para iniciar a aplicação, utilize:
+Para configurar a aplicação atravez do terminal do mingw32, utilize:
 ```
-start:dev
+make config
 ```
+
+Para iniciar a aplicação atravez do terminal do mingw32, utilize:
+```
+make -j5 flash monitor
+```
+
 
 
 ## **Aplicação**
@@ -431,7 +437,9 @@ O projeto foi desenvolvido na linguagem de programação [C](https://devdocs.io/
 
 
 ### **Foto da aplicação web**
-<img alt="GoStack" style="width:32%" src="https://media.discordapp.net/attachments/767426969851527188/779057517099089930/terminal.jpg" />
+<p align="center">
+	<img alt="GoStack" style="width:32%" src="https://media.discordapp.net/attachments/767426969851527188/779057517099089930/terminal.jpg" />
+<p/>
 
 
 ## **Licença**
