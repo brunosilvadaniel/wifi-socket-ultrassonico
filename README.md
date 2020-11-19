@@ -1,5 +1,6 @@
-<img alt="GoStack" src="https://lh6.googleusercontent.com/proxy/K5fmOf83OCmcXLL6A8C661JiY_kCgEehnEzR8zyhludeemsL9n4R3vq1Q2aQBN_Vvd1PucGHzvY21aQNl_mvkhHDVNTAeFlgTLxVWaAQ4_eX" />
-
+<p align="center">
+ <img alt="GoStack" src="https://lh6.googleusercontent.com/proxy/K5fmOf83OCmcXLL6A8C661JiY_kCgEehnEzR8zyhludeemsL9n4R3vq1Q2aQBN_Vvd1PucGHzvY21aQNl_mvkhHDVNTAeFlgTLxVWaAQ4_eX" />
+<p/>
 ## **Sumário**
 
 - [Introdução](#Introdução)
@@ -22,9 +23,10 @@ Os componentes que foram utilizados para a montagem foram:
 ### Foto da montagem na prática e no TinkerCad
 <br>
 <p align="center">
-<img  alt="GoStack" style="width:47.3%" src="https://media.discordapp.net/attachments/767426969851527188/779052502405742673/wenos-on.jpg?width=506&height=677" />
+ <img  alt="GoStack" style="width:47.3%" src="https://media.discordapp.net/attachments/767426969851527188/779052502405742673/wenos-on.jpg?width=506&height=677" />
+ <img align="center" alt="GoStack" style="width:50%" src="https://media.discordapp.net/attachments/767426969851527188/779052231168622632/wenos.jpg" />
 <p/>
-<img align="center" alt="GoStack" style="width:50%" src="https://media.discordapp.net/attachments/767426969851527188/779052231168622632/wenos.jpg" />
+
 
 
 
