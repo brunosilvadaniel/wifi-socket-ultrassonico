@@ -82,6 +82,7 @@ O projeto foi desenvolvido na linguagem de programação [C](https://devdocs.io/
 <p align="center">
 	<img alt="GoStack" style="width:32%" src="https://media.discordapp.net/attachments/767426969851527188/779057517099089930/terminal.jpg" />
 <p/>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/4GfKDHFkdDU)
 
 
 ## **Licença**
